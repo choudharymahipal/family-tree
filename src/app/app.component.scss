@@ -1,0 +1,7 @@
+  .f3 .f3-svg-circle-hover circle {
+    transition: fill 0.2s ease-in-out;
+  }
+
+  .f3 .f3-svg-circle-hover:hover circle {
+    fill: rgba(0, 0, 0, 0.2) !important;
+  }
